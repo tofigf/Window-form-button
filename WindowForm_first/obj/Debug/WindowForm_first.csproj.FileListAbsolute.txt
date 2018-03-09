@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\bin\Debug\WindowForm_first.exe.config
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\bin\Debug\WindowForm_first.exe
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\bin\Debug\WindowForm_first.pdb
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.Form1.resources
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.Properties.Resources.resources
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.exe
+C:\Users\User\Desktop\C#  myCreation\WindowForm_first\WindowForm_first\obj\Debug\WindowForm_first.pdb
